@@ -1,0 +1,17 @@
+[
+  {
+    "path": "Voyage/Binaries/Win64/ue4ss/Mods/CaretakerCompass/Scripts/config.lua",
+    "bytes": 328,
+    "sha256": "420b6112e9bcea070504fde9024b97cd8fed2d2cdac67ea7e8c5514ce44c7f3f"
+  },
+  {
+    "path": "Voyage/Binaries/Win64/ue4ss/Mods/CaretakerCompass/Scripts/main.lua",
+    "bytes": 6517,
+    "sha256": "96772ce9f4b1d9d21ca21748192a7569273765deb56529ae759632d45a8ccfd9"
+  },
+  {
+    "path": "Voyage/Binaries/Win64/ue4ss/Mods/CaretakerCompass/enabled.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+]
