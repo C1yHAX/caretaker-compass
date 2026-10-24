@@ -5,6 +5,16 @@ Eine eigene Kompass-Mod für **The Last Caretaker**, entwickelt für Spielbuild
 Kompassband und Gradzahl stammen aus der aktuellen Spielversion; die Mod übernimmt
 deren Anzeige und Lebenszyklus mit eigenem Lua-Code.
 
+## Download
+
+- [GitHub: Release 1.0.0](https://github.com/C1yHAX/caretaker-compass/releases/tag/v1.0.0)
+- [GitLab: Release 1.0.0](https://gitlab.com/c0d1ngf1eber/caretaker-compass/-/releases/v1.0.0)
+
+Für die Installation die Datei **`Caretaker-Compass-1.0.0.zip`** herunterladen.
+Sie enthält nur die drei Mod-Dateien im richtigen Installationspfad. Die automatisch
+von der Plattform angebotenen Quellcodearchive sind kein Installationspaket.
+Eine separate `SHA256SUMS.txt` dient zum Prüfen des Downloads.
+
 ## Funktionen
 
 - Blickrichtung und Gradzahl mit der nativen Kompassberechnung des Spiels.
